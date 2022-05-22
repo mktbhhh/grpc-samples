@@ -1,0 +1,6 @@
+go 1.18
+
+use (
+    ./arpc/ch02/productinfo/go/server
+    ./arpc/ch02/productinfo/go/client
+)
